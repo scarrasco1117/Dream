@@ -1,0 +1,11 @@
+hr {
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 3%;
+    height: 5%;
+    border-color: #FAAB78;
+}
+ body {
+    background-color: #D7E9B9;
+    text-align: center;
+ }
